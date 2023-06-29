@@ -1,0 +1,12 @@
+print("Ficha técnica de apresentação\n")
+nome = input("Qual é o seu nome?\n")
+gostos = input("Lindo nome!\n O que você gosta de fazer?\n")
+idade = input("E quantos anos você tem?\n")
+gosto_musical = input("Quais estilos musicais você mais gosta?\n")
+profissao = input("Você tem alguma profissão em mente?\n")
+
+print("\nNome:",nome)
+print("Gostos e preferências:",gostos)
+print("Idade:",idade)
+print("Gostos musicais:",gosto_musical)
+print("Profissão pretendida:",profissao)
